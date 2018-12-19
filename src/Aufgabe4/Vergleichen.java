@@ -34,5 +34,6 @@ public class Vergleichen {
             System.out.println("Keine der Variablen ist gleich.");
         }
 
+
     }
 }
